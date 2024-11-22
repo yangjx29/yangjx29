@@ -8,11 +8,11 @@ Here are some ideas to get you started:
 
 -->
 - 👶 I'm currently working on AI security
-- 🎒 a student in uestc
-- 👯 futrue in zju
-- 🏀 fitness & basketball
+- 🎒 a student in [uestc](https://en.uestc.edu.cn/)
+- 👯 futrue student in [zju](https://www.zju.edu.cn/english/)
+- 🏀 fitness & basketball & billiards
 - ✉️ reach me with: jingxiaoyang@std.uestc.edu.cn
-- 🔎 more information: https://yangjx29.github.io/about/
+- 🔎 more information: [blog](https://yangjx29.github.io/about/)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yangjx29&theme=merko)](https://github.com/yangjx29/github-readme-activity-graph)
 
