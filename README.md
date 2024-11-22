@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 - 👶 I'm currently working on AI security
 - 🎒 a student in [uestc](https://en.uestc.edu.cn/)
-- 👯 futrue student in [zju](https://www.zju.edu.cn/english/)
+- 👯 future student in [zju](https://www.zju.edu.cn/english/)
 - 🏀 fitness & basketball & billiards
 - ✉️ reach me with: jingxiaoyang@std.uestc.edu.cn
 - 🔎 more information: [blog](https://yangjx29.github.io/about/)
