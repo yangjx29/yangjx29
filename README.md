@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-- 👶 I'm currently working on AI security
+<!-- - 👶 I'm currently working on AI security
 - 🎒 a student at [uestc](https://en.uestc.edu.cn/)
 - 👯 a prospective student at [zju](https://www.zju.edu.cn/english/)
 - 🏀 fitness & basketball & billiards
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=yangjx29&label=Profile%20Views&color=2&icon=6&pretty=true" />
-</a>
+</a> -->
